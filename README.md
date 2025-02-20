@@ -19,5 +19,5 @@ Bite & Bliss is a sleek and modern mobile app for ordering cakes, pastries, burg
 **📧** Email: mdsiamhosaain0@gmail.com
 **🔗** GitHub: [siamhossain0](https://github.com/siamhossain0)
 ## 📸 Screenshots
--!(https://github.com/siamhossain0/Bite-Bliss/blob/main/homeScreen.png?raw=true)
+-![homeScreen](https://github.com/siamhossain0/Bite-Bliss/blob/main/homeScreen.png?raw=true)
 
