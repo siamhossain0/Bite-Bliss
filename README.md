@@ -10,13 +10,13 @@ Bite & Bliss is a sleek and modern mobile app for ordering cakes, pastries, burg
 ✅ **Favorites & Wishlist** – Save your favorite items for quick access.
 ✅ **User Authentication** – Sign up, log in, and manage your profile.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 **Flutter** – Cross-platform mobile development
 **Bloc Provider** – State management
 **Dart** – Programming language
-##📩 Contact & Support
+## 📩 Contact & Support
 **💬** Feel free to reach out if you have any questions!
 **📧** Email: mdsiamhosaain0@gmail.com
 **🔗** GitHub: siamhossain0
-##📸 Screenshots
+## 📸 Screenshots
 
